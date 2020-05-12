@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cookies</string>
+    <string name="action_eat_cookie">Eat cookie</string>
+    <string name="msg_i_m_so_hungry">I\'m so hungry</string>
+    <string name="msg_im_so_full">I\'m so full</string>
+</resources>
